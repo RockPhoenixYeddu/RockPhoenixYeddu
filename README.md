@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RockPhoenixYeddu
-- 👀 I’m interested in coding, music, gaming, photography, studies, watching movies, making movies etc...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on phython projects, gaming and all my interests
+- 👀 I’m interested in coding, music, gaming etc...
+- 🌱 I’m currently learning full stack
+- 💞️ I’m working on a music related software
 - 📫 How to reach me gmail-rockphoenixyeddu@gmail.com ||
                    discord-Rock Phoenix Yeddu#7137 ||
                    twitter-Rock Phoenix Yeddu ||
