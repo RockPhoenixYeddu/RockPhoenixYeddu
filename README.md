@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RockPhoenixYeddu
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently a 3rd year Computer science engineer
+- 🌱 I’m currently a 3rd year Computer science engineering student
 - 📫 How to reach me gmail-rockphoenixyeddu@gmail.com ||
                    discord-Rock Phoenix Yeddu#7137 ||
                    twitter-Rock Phoenix Yeddu ||
