@@ -1,7 +1,6 @@
 - 👋 Hi, I’m RockPhoenixYeddu
-- 👀 I’m interested in coding, music, gaming etc...
-- 🌱 I’m currently learning full stack
-- 💞️ I’m working on a music related software
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently a 3rd year Computer science engineer
 - 📫 How to reach me gmail-rockphoenixyeddu@gmail.com ||
                    discord-Rock Phoenix Yeddu#7137 ||
                    twitter-Rock Phoenix Yeddu ||
